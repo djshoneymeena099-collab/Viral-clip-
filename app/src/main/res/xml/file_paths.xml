@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path name="exported_clips" path="exports/" />
+    <cache-path name="clip_cache" path="exports/" />
+    <external-files-path name="external_exports" path="Movies/" />
+</paths>

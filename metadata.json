@@ -1,0 +1,6 @@
+{
+  "name": "Viral Clip AI",
+  "description": "AI-powered short video clipping studio that turns long videos into vertical Reels, Shorts, and TikToks with synchronized Hindi, English, and Hinglish captions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

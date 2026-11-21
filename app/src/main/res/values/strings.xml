@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Viral Clip AI</string>
+    <string name="hero_badge">AI SHORT-FORM STUDIO</string>
+    <string name="hero_headline">TURN LONG VIDEOS INTO VIRAL SHORTS WITH AI</string>
+    <string name="hero_subtitle">Paste your video link. Let AI find the best moments. Download ready-to-post Reels in minutes.</string>
+    <string name="hero_cta">CREATE MY VIRAL CLIPS</string>
+
+    <string name="nav_create">Create</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_exports">Exports</string>
+    <string name="nav_account">Account</string>
+
+    <string name="ai_sample_notice_title">Sample AI Mode Active</string>
+    <string name="ai_sample_notice_body">AI highlights and multilingual captions use local sample outputs because Firebase AI Logic is not enabled. Enable Firebase to connect live Gemini AI.</string>
+
+    <string name="youtube_copyright_note">YouTube links fetch official metadata via oEmbed. Attach your authorized video file for direct clipping, or export a 9:16 kinetic-caption promo Reel.</string>
+
+    <string name="cd_hero_art">Futuristic studio preview showing glowing 9:16 vertical short videos</string>
+    <string name="cd_empty_projects">Illustration of a glowing video clapperboard and timeline wave</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_play_pause">Play or pause clip preview</string>
+    <string name="cd_share_video">Share exported MP4 video</string>
+    <string name="cd_open_video">Play exported MP4 video</string>
+    <string name="cd_delete_item">Delete item</string>
+</resources>
